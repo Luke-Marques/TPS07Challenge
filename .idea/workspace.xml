@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae2e0725-be9f-4d4a-b130-d872bab01f49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tps_07_challenge.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tps_07_challenge_2.ipynb" beforeDir="false" />
+    <list default="true" id="ae2e0725-be9f-4d4a-b130-d872bab01f49" name="Default Changelist" comment="Added try except clause to handle FileNotFoundError for data imports. Instead, pulling data from a Google Drive.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tps_07_challenge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tps_07_challenge.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +89,17 @@
       <workItem from="1627458467993" duration="1455000" />
       <workItem from="1628961946329" duration="613000" />
       <workItem from="1629022009921" duration="56000" />
-      <workItem from="1631175433763" duration="2094000" />
+      <workItem from="1631175433763" duration="2547000" />
+      <workItem from="1631219874607" duration="1836000" />
     </task>
+    <task id="LOCAL-00001" summary="Added try except clause to handle FileNotFoundError for data imports. Instead, pulling data from a Google Drive.">
+      <created>1631177904202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631177904202</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +116,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added try except clause to handle FileNotFoundError for data imports. Instead, pulling data from a Google Drive." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added try except clause to handle FileNotFoundError for data imports. Instead, pulling data from a Google Drive." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TPS07Challenge$test.coverage" NAME="test Coverage Results" MODIFIED="1626704927310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
